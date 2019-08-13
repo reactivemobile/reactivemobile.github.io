@@ -4,5 +4,5 @@ body {
  background-size: contain;
  background-repeat: no-repeat;
  background-position: center; 
- background-size: 50%;
+ background-size: 50% auto;
 }
